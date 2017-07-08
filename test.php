@@ -9,3 +9,5 @@ echo ("commit by jie");
 
 echo ("write 10");
 $commit = "by gooin";
+
+echo 'fork的提交';
