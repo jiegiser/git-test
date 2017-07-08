@@ -7,4 +7,3 @@
  */
 echo ("commit by jie");
 
-echo "committed by gooin";
