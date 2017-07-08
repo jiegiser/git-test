@@ -7,4 +7,6 @@
  */
 echo ("commit by jie");
 
+$commit = "by gooin";
+
 
